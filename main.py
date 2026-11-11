@@ -85,5 +85,3 @@ if __name__ == '__main__':
         for k in k_test:
             testImages(k, norm)
         np.savetxt(f"ORL_kNN_norm{norm}.txt", rr_results, fmt="%.8f")
-        rr_results = []
-        aqt_results = []

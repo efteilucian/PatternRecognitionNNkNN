@@ -60,7 +60,7 @@ def testImages(k, norm):
 
 
 if __name__ == '__main__':
-    folderPath = "C:\\Users\\Luci\\Downloads\\ORL"
+    folderPath = "C:\\Users\\Lucian\\Downloads\\ORL"
 
     A = np.zeros((112*92, 320))
 
